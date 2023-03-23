@@ -6,12 +6,12 @@ This dataset includes all Major Crime Indicators (MCI) occurrences by reported d
 
 https://data.torontopolice.on.ca/pages/major-crime-indicators
 
-University of Toronto SCS 3253-061 - Machine Learning
-Instructor: Saeid Abolfazli
+University of Toronto SCS 3253-061 - Machine Learning\
+Instructor: Saeid Abolfazli\
 
-Group Members:
-  Caio Gasparine
-  Fabio Queiroz
-  Olivier Sangam
-  Illidan Yuan
+Group Members:\
+  Caio Gasparine\
+  Fabio Queiroz\
+  Olivier Sangam\
+  Illidan Yuan\
                         April, 2023
